@@ -42,8 +42,8 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/Mffff4/proxy-manager.git
+cd proxy-manager
 ```
 
 2. **Установите зависимости:**
