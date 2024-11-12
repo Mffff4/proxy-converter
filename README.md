@@ -33,7 +33,8 @@
 
 ## 📦 Установка
 
-1. **Клонируйте репозиторий:**```bash
+1. **Клонируйте репозиторий:**
+```bash
 git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
 ```
