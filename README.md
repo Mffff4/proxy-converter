@@ -1,13 +1,31 @@
 # 🚀 Proxy manager
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Поддержка-да-brightgreen.svg)](https://github.com/Mffff4/proxy-manager/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-приветствуются-brightgreen.svg)](http://makeapullrequest.com)
-[![С любовью](https://img.shields.io/badge/С%20любовью-❤-red.svg)](https://github.com/Mffff4)
-[![Telegram](https://img.shields.io/badge/Telegram-канал-blue.svg)](https://t.me/mainecode)
-[![Звезды на GitHub](https://img.shields.io/github/stars/Mffff4/proxy-manager?style=social)](https://github.com/Mffff4/proxy-manager)
-[![Мои проекты](https://img.shields.io/badge/Мои%20проекты-🔗-blue)](https://github.com/Mffff4)
+<div align="center">
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg" alt="Python" />
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" />
+  </a>
+  <a href="https://github.com/Mffff4/proxy-manager/graphs/commit-activity">
+    <img src="https://img.shields.io/badge/Поддержка-да-brightgreen.svg" alt="Maintenance" />
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-приветствуются-brightgreen.svg" alt="PRs Welcome" />
+  </a>
+  <a href="https://github.com/Mffff4">
+    <img src="https://img.shields.io/badge/С%20любовью-❤-red.svg" alt="С любовью" />
+  </a>
+  <a href="https://t.me/mainecode">
+    <img src="https://img.shields.io/badge/Telegram-канал-blue.svg" alt="Telegram" />
+  </a>
+  <a href="https://github.com/Mffff4/proxy-manager">
+    <img src="https://img.shields.io/github/stars/Mffff4/proxy-manager?style=social" alt="Звезды на GitHub" />
+  </a>
+  <a href="https://github.com/Mffff4">
+    <img src="https://img.shields.io/badge/Мои%20проекты-🔗-blue.svg" alt="Мои проекты" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="100" />
