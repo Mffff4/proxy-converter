@@ -1,10 +1,12 @@
-# 🚀 Account Generator & Proxy Manager
+# 🚀 Proxy manager
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/yourusername/yourrepository/graphs/commit-activity)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤-red.svg)](https://github.com/yourusername)
+[![Maintenance](https://img.shields.io/badge/Поддержка-да-brightgreen.svg)](https://github.com/Mffff4/proxy-manager/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-приветствуются-brightgreen.svg)](http://makeapullrequest.com)
+[![С любовью](https://img.shields.io/badge/С%20любовью-❤-red.svg)](https://github.com/Mffff4)
+[![Telegram](https://img.shields.io/badge/Telegram-канал-blue.svg)](https://t.me/mainecode)
+[![Звезды на GitHub](https://img.shields.io/github/stars/Mffff4/proxy-manager?style=social)](https://github.com/Mffff4/proxy-manager)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="100" />
@@ -109,7 +111,7 @@ tqdm==4.67.0
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by @yourusername</sub>
+  <sub>Built with ❤️ by @Mffff4</sub>
 </div>
 
 

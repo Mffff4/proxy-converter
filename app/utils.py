@@ -40,17 +40,31 @@ def confirm_action(message: str) -> bool:
     return questionary.confirm(message, default=True, style=custom_style).ask()
 
 def print_banner():
-    banner = """
-    ███╗   ███╗ █████╗ ██╗███╗   ██╗███████╗ ██████╗ ██████╗ ██████╗ ███████╗
-    ████╗ ████║██╔══██╗██║████╗  ██║██╔════╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
-    ██╔████╔██║███████║██║██╔██╗ ██║█████╗  ██║     ██║   ██║██║  ██║█████╗  
-    ██║╚██╔╝██║██╔══██║██║██║╚██╗██║██╔══╝  ██║     ██║   ██║██║  ██║██╔══╝  
-    ██║ ╚═╝ ██║██║  ██║██║██║ ╚████║███████╗╚██████╗╚██████╔╝██████╔╝███████╗
-    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-                                                                              
-    Telegram Channel: @mainecode
-    """
-    console.print(Panel(banner, style="bold magenta"))
+    warnings = [
+        "ВНИМАНИЕ: Этот софт не предназначен для продажи!",
+        "WARNING: This software is not for sale!",
+        "¡ADVERTENCIA: ¡Este software no está a la venta!",
+        "ATTENTION: Ce logiciel n'est pas à vendre!",
+        "ACHTUNG: Diese Software ist nicht zum Verkauf bestimmt!",
+        "ATTENZIONE: Questo software non è in vendita!",
+        "注意：このソフトウェアは販売用ではありません！",
+        "주의: 이 소프트웨어는 판매용이 아닙니다!",
+        "注意：此软件不用于销售！",
+        "ATENÇÃO: Este software não se destina à venda!"
+    ]
+    
+    warning_text = "\n".join(f"[red]{warning}[/red]" for warning in warnings)
+    
+    ascii_art = f"""[blue]
+
+ ▄▄▄·▄▄▄        ▐▄• ▄  ▄· ▄▌    • ▌ ▄ ·.  ▄▄▄·  ▐ ▄  ▄▄▄·  ▄▄ • ▄▄▄ .▄▄▄  
+▐█ ▄█▀▄ █·▪      █▌█▌▪▐█▪██▌    ·██ ▐███▪▐█ ▀█ •█▌▐█▐█ ▀█ ▐█ ▀ ▪▀▄.▀·▀▄ █·
+ ██▀·▐▀▀▄  ▄█▀▄  ·██· ▐█▌▐█▪    ▐█ ▌▐▌▐█·▄█▀▀█ ▐█▐▐▌▄█▀▀█ ▄█ ▀█▄▐▀▀▪▄▐▀▀▄ 
+▐█▪·•▐█•█▌▐█▌.▐▌▪▐█·█▌ ▐█▀·.    ██ ██▌▐█▌▐█ ▪▐▌██▐█▌▐█ ▪▐▌▐█▄▪▐█▐█▄▄▌▐█•█▌
+.▀   .▀  ▀ ▀█▄▀▪•▀▀ ▀▀  ▀ •     ▀▀  █▪▀▀▀ ▀  ▀ ▀▀ █▪ ▀  ▀ ·▀▀▀▀  ▀▀▀ .▀  ▀
+    [/blue]"""
+    
+    console.print(f"\n{warning_text}\n{ascii_art}\n")
 
 def get_file_path(filename: str, create_if_missing: bool = False) -> str:
     if os.path.exists(filename):
