@@ -2,14 +2,18 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/Mffff4/proxy-manager/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/yourusername/yourrepository/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤-red.svg)](https://github.com/Mffff4)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤-red.svg)](https://github.com/yourusername)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="100" />
   
   <h3>🛠 Мощный инструмент для генерации аккаунтов и управления прокси</h3>
+</div>
+
+<div align="center">
+  <img src="assets/preview.png" alt="Preview" width="800" />
 </div>
 
 ---
@@ -35,7 +39,7 @@
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone https://github.com/Mffff4/proxy-manager.git
+git clone https://github.com/yourusername/yourrepository.git
 cd yourrepository
 ```
 
@@ -105,8 +109,7 @@ tqdm==4.67.0
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by @mffff4</sub>
+  <sub>Built with ❤️ by @yourusername</sub>
 </div>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/mainecode)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=social)](https://github.com/Mffff4/proxy-manager)
+
