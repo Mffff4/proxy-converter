@@ -7,6 +7,7 @@
 [![С любовью](https://img.shields.io/badge/С%20любовью-❤-red.svg)](https://github.com/Mffff4)
 [![Telegram](https://img.shields.io/badge/Telegram-канал-blue.svg)](https://t.me/mainecode)
 [![Звезды на GitHub](https://img.shields.io/github/stars/Mffff4/proxy-manager?style=social)](https://github.com/Mffff4/proxy-manager)
+[![Мои проекты](https://img.shields.io/badge/Мои%20проекты-🔗-blue)](https://github.com/Mffff4)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/python.svg" width="100" />
